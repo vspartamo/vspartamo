@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I am Nicolás Herrera
 
-<!--
-**vspartamo/vspartamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mathematical engineering student at the University of Chile, passionate about Machine Learning and Data Science. I live in Santiago de Chile and I enjoy exploring new ideas through books.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some info :bookmark_tabs:
+
+🏫 I am pursuing a degree in Engineering Mathematics at the University of Chile.  
+📚 I love reading and I am always looking for interesting books, whether it's related to my field or general knowledge.  
+🧑‍🎓 I'm passionate about solving real-world problems using mathematical tools and ML techniques.
+
+---
+
+## Tech Stack 🛠️
+
+### Programming Languages:
+- **Python**
+- **Julia**
+
+### Data Science and Machine Learning Frameworks:
+- **Numpy**  
+- **Pandas**  
+- **Scikit-Learn**  
+- **Pytorch**  
+- **TensorFlow**  
+
+### Others:
+- **Ubuntu**  
+- **Windows**  
+- **VSCode**  
+- **Jupyter**
+- **git**
